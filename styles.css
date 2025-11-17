@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(242, 224, 207);
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+h1 {
+    color: rgb(215, 61, 5);
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+li {
+    font-size: 1.2rem;
+    padding: 8px 0;
+}
+button{
+    background-color: rgb(215, 61, 5);
+    color: white;
+    padding: auto;
+    border: 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(100, 42, 3);
+}
+button:active{
+    background-color: rgb(255, 157, 91);
+}
